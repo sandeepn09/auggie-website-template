@@ -1683,3 +1683,16 @@ section {
 	border-radius: 5px;
 }
 	
+.signup-form {
+	width: 100%;
+	border: 5px solid #fff;
+	text-align: center;
+}
+
+.form-div {
+	padding-top: 50px;
+	margin: 0 auto;
+	position: relative;
+	width: 30%;
+	min-width: 300px;
+}
