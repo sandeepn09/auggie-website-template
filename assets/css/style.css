@@ -1696,3 +1696,12 @@ section {
 	width: 30%;
 	min-width: 300px;
 }
+
+.reg-link {
+	color: blue;
+}
+
+.left-padding {
+	display: flex;
+	
+}
